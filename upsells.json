@@ -1,0 +1,4 @@
+[
+    {"name": "cake upsell", "try_per_order": 1, "item_to_upsell": "Cake", "when": {"category_ordered": ["coffee", "tea"]}},
+    {"name": "toast upsell", "try_per_order": 2, "item_to_upsell": "Toast", "when": {"category_ordered": ["soft drink"]}}
+]

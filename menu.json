@@ -1,0 +1,12 @@
+[
+    {"name": "Espresso", "price": 1.90, "category": "coffee"},
+    {"name": "Cappuccino", "price": 3.20, "category": "coffee"},
+    {"name": "Macchiato", "price": 4.10, "category": "coffee"},
+    {"name": "Green Tea", "price": 1.70, "category": "tea"},
+    {"name": "Black Tea", "price": 2.00, "category": "tea"},
+    {"name": "Orange Soda", "price": 1.90, "category": "soft drink"},
+    {"name": "Sparkling Water", "price": 1.80, "category": "soft drink"},
+    {"name": "Water", "price": 0.50, "category": "basic"},
+    {"name": "Toast", "price": 2.50, "category": "side"},
+    {"name": "Cake", "price": 1.00, "category": "side"}
+]
